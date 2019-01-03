@@ -142,7 +142,7 @@
  
  ## 📌 이미지 및 설명 출처 
  
- https://opentutorials.org/module/1335/8940
+ 원리 파트 - https://opentutorials.org/module/1335/8940
 
 
 
