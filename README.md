@@ -32,7 +32,7 @@
 
  **figure 4. Phase 3*
 
-  20의 다음 노드로 25를 지정합니다.
+  20의 다음 노드로 25를 지정합니다. 
 
   ![](https://s3.ap-northeast-2.amazonaws.com/opentutorials-user-file/module/1335/2961.png)
 
